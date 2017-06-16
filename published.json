@@ -2,7 +2,7 @@
     "storymap": {
         "call_to_action": true,
         "zoomify": {
-            "path": "https://senatehouselibrary.github.io/refmaptest/", "attribution": "/Reformation/", "width": 5178, "height": 4617
+            "path": "https://senatehouselibrary.github.io/refmaptest/", "attribution": "Reformation", "width": 5178, "height": 4617
         }
         ,
         "slides": [ {

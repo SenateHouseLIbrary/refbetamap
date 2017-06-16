@@ -1,1 +1,255 @@
-{"storymap": {"call_to_action": true, "zoomify": {"path": "https://senatehouselibrary.github.io/refmaptest/", "width": 5178, "height": 4617}, "slides": [{"date": "", "media": {"url": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Luther.png", "caption": "Martin Luther", "credit": ""}, "type": "overview", "location": {"line": true}, "text": {"headline": "The Reformation Story", "text": "<span>On 31 October 1517, Martin Luther sent 95 theses disputing the power of indulgences to the archbishop of Mainz. In doing so he sparked a movement that was to shatter the unity of the Catholic Church in Europe. The result was the Protestant Reformation.</span>"}}, {"date": "", "media": {"url": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/History.png", "caption": "The History of the Reformation of the Church of England in Two Parts.", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -84.287109375, "zoom": 5, "lat": 58.53959476664049, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/ref-flower.png", "use_custom_marker": true}, "text": {"headline": "Wittenberg", "text": "The \u2018home\u2019 of the Reformation, where Luther posted his Ninety Five Theses, calling for fundamental reform of the Church. Wittenberg was part of the Electorate of Saxony in modern eastern Germany. The Elector of Saxony in 1517 was Frederick III, \u2018The Wise\u2019, &nbsp; who founded the university where Luther and Melanchthon taught. &nbsp;"}}, {"date": "", "media": {"url": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Melanchthon - Augsburg.jpg", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -91.0986328125, "zoom": 5, "lat": 50.0923932109388, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true}, "text": {"headline": "Augsburg", "text": "A Free Imperial City, now located in Bavaria, Germany, it was pivotal in the early stages of the Reformation. Luther was interviewed there in 1518 after an investigation was ordered by the Pope. A Diet (or council) was held in Augsburg in 1530 which approved the so-called \u2018Confession of Augsburg\u2019. A document drawn up by Luther\u2019s colleague, Philipp Melanchthon, this was the first profession of faith of the Reformation and is regarded as a cornerstone of Lutheranism. A peace agreement was signed in Augsburg in 1555 between the Emperor, Charles V and the protestant Schmalkaldic League, which granted official status to Lutheranism in the Empire (though significantly it excluded Calvinism)."}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -99.140625, "zoom": 5, "lat": 53.72271667491848, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true}, "text": {"headline": "Worms", "text": "Worms is a city in the modern German state of Rhineland-Palatinate and at the time of the Reformation was an Imperial Free City. The Edict of Worms in 1521 declared Luther a heretic."}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -80.37597656249999, "zoom": 5, "lat": 31.466153715024294, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true}, "text": {"headline": "Rome", "text": "Rome was at this time part of the Papal States, territories in the central Italian peninsula that were directly administered by the Pope. They were caught up in the perennial tug of war between France and the Empire and, in 1527, Rome was sacked by Imperial soldiers leading to the deaths of thousands, the destruction of large parts of the city, and the imprisonment of Pope Clement VII.&nbsp;"}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -96.240234375, "zoom": 5, "lat": 56.58369172128337, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Uni-outline-03.png", "use_custom_marker": true}, "text": {"headline": "Marburg", "text": "The site of the oldest protestant university in the world, founded in 1527, Marburg was the base of Landgrave Philip I of Hesse, one of the sponsors of the early Reformation. Philip convened the Marburg Colloquy in 1529, a theological debate between Luther and Zwingli over the \u2018Real Presence\u2019 of Christ in the Eucharist."}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -93.1201171875, "zoom": 5, "lat": 57.868131763328826, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true}, "text": {"headline": "Schmalkalden", "text": "The protestant Schmalkaldic League was founded here in 1531 by Landgrave Philip of Hesse. The League was a protestant military alliance."}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -89.20898437499999, "zoom": 5, "lat": 43.8028187190472, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true}, "text": {"headline": "Trento", "text": "Pope Paul III convened the Council of Trent in this Imperial Free City (now situated in northern Italy), 1545-1563, in response to the challenge from Luther. Arguably one of the most important ever Church Councils, its agenda of reform and renewal characterised the Catholic \u2018Counter Reformation\u2019 which followed.<br>"}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -80.595703125, "zoom": 5, "lat": 58.240163543416415, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true}, "text": {"headline": "M\u00fchlberg", "text": "M\u00fchlberg, on the river Elbe in eastern Germany, was then part of the Electorate of Saxony - a stronghold of Protestantism \u2013 and close to Wittenberg, where Luther posted his Ninety Five Theses in 1517. In 1547, it was the scene of the decisive battle that witnessed the defeat of the Schmalkaldic League by Emperor Charles V and the capture of Landgrave Philip of Hesse. &nbsp;"}}, {"date": "", "media": {"url": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Martin Bucer - Strasbourg.jpg", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -100.01953125, "zoom": 5, "lat": 51.069016659603896, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true}, "text": {"headline": "Strasbourg", "text": "Strasbourg became a Lutheran stronghold under the spiritual leadership of the reformer, Martin Bucer. He fled Strasbourg after its surrender following the Battle of M\u00fchlberg in 1547 and took up exile in England."}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -108.1494140625, "zoom": 5, "lat": 52.74959372674114, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true}, "text": {"headline": "Le Cateau-Cambresis", "text": "A peace treaty was signed here in 1559, ending the wars in Italy between Henry II of France and Philip II of Spain. Henry II died from wounds inflicted in a jousting tournament marking the peace. The resulting political and religious factionalism in France contributed to the outbreak of the French Wars of Religion in 1562. &nbsp;&nbsp;"}}, {"date": "", "media": {"url": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/JohnKnox_window.png", "caption": "John Knox", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -123.8818359375, "zoom": 5, "lat": 69.16255790810501, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true}, "text": {"headline": "Edinburgh", "text": "Edinburgh was a prominent centre of the Scottish Reformation under John Knox. The Scottish Confession of Faith was approved there by the Scottish Parliament in 1560 in the teeth of opposition from the Catholic, Mary Queen of Scots.&nbsp;"}}, {"date": "", "media": {"url": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/notable_town_example.jpg", "caption": "Republican Geneva", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -106.61132812499999, "zoom": 5, "lat": 45.089035564831036, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true}, "text": {"headline": "Geneva", "text": "Republican Geneva was the epicentre of Calvinism from around 1536: Jean Calvin was mostly based here until his death in 1564. Calvin was succeeded by the influential French theologian, Theodore Beza. Geneva was home to the largest community of the more than 800 English and Scottish protestant exiles who fled to the continent during the reign of the Catholic Mary Tudor in the mid-1550s (other notable communities included those in Strasbourg and Frankfurt). Exiles there included John Knox and Bible translator, Miles Coverdale. He, along with other translators including William Whittingham, published a new version of the Bible in English, what became known as the Geneva Bible. Arguably, this was to be the most popular and accessible version of the Bible distributed during the reign of Elizabeth I (more so than the Authorised, so-called \u2018Bishops\u2019 Bible) and significantly contained heavily Calvinist annotations which deeply influenced a generation of churchmen and laity in the English Church."}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -51.7236328125, "zoom": 5, "lat": 14.647368383896632, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true}, "text": {"headline": "Lepanto", "text": "A decisive naval engagement took place in the Gulf of Patras in the Ionian Sea in 1571 when the Holy League, a military alliance formed by Pope Pious V and led by Spain, defeated the Ottoman fleet. The nearest town was Lepanto, the Venetian name for the Greek town of Nafpaktos."}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -115.8837890625, "zoom": 5, "lat": 52.32191088594773, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true}, "text": {"headline": "Paris", "text": "The French capital was the scene of some of the worst bloodletting of the notorious St Bartholomew\u2019s Day Massacre in August 1572, during which thousands of protestant Huguenots were murdered throughout France."}}, {"date": "", "media": {"url": "", "caption": "", "credit": ""}, "location": {"iconSize": [48, 48], "lon": -130.517578125, "zoom": 5, "lat": 50.708634400828224, "line": true, "icon": "//uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true}, "text": {"headline": "Nantes", "text": "This French city witnessed the signing of the \u2018Edict of Nantes\u2019 in 1598 by King Henry IV of France, conceding a degree of toleration to French protestants (Huguenots). The Edict marked the end of the French Wars of Religion."}}], "map_type": "zoomify", "call_to_action_text": "", "map_as_image": false}, "font_css": "stock:abril-droidsans"}
+{
+    "storymap": {
+        "call_to_action": true,
+        "zoomify": {
+            "path": "https://senatehouselibrary.github.io/refmaptest/", "width": 5178, "height": 4617
+        }
+        ,
+        "slides": [ {
+            "date": "",
+            "media": {
+                "url": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Luther.png", "caption": "Martin Luther", "credit": ""
+            }
+            ,
+            "type": "overview",
+            "location": {
+                "line": true
+            }
+            ,
+            "text": {
+                "headline": "The Reformation Story", "text": "<span>On 31 October 1517, Martin Luther sent 95 theses disputing the power of indulgences to the archbishop of Mainz. In doing so he sparked a movement that was to shatter the unity of the Catholic Church in Europe. The result was the Protestant Reformation.</span>"
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/History.png", "caption": "The History of the Reformation of the Church of England in Two Parts.", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -84.287109375, "zoom": 5, "lat": 58.53959476664049, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/ref-flower.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Wittenberg", "text": "The \u2018home\u2019 of the Reformation, where Luther posted his Ninety Five Theses, calling for fundamental reform of the Church. Wittenberg was part of the Electorate of Saxony in modern eastern Germany. The Elector of Saxony in 1517 was Frederick III, \u2018The Wise\u2019, &nbsp; who founded the university where Luther and Melanchthon taught. &nbsp;"
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Melanchthon - Augsburg.jpg", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -91.0986328125, "zoom": 5, "lat": 50.0923932109388, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Augsburg", "text": "A Free Imperial City, now located in Bavaria, Germany, it was pivotal in the early stages of the Reformation. Luther was interviewed there in 1518 after an investigation was ordered by the Pope. A Diet (or council) was held in Augsburg in 1530 which approved the so-called \u2018Confession of Augsburg\u2019. A document drawn up by Luther\u2019s colleague, Philipp Melanchthon, this was the first profession of faith of the Reformation and is regarded as a cornerstone of Lutheranism. A peace agreement was signed in Augsburg in 1555 between the Emperor, Charles V and the protestant Schmalkaldic League, which granted official status to Lutheranism in the Empire (though significantly it excluded Calvinism)."
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -99.140625, "zoom": 5, "lat": 53.72271667491848, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Worms", "text": "Worms is a city in the modern German state of Rhineland-Palatinate and at the time of the Reformation was an Imperial Free City. The Edict of Worms in 1521 declared Luther a heretic."
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -80.37597656249999, "zoom": 5, "lat": 31.466153715024294, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Rome", "text": "Rome was at this time part of the Papal States, territories in the central Italian peninsula that were directly administered by the Pope. They were caught up in the perennial tug of war between France and the Empire and, in 1527, Rome was sacked by Imperial soldiers leading to the deaths of thousands, the destruction of large parts of the city, and the imprisonment of Pope Clement VII.&nbsp;"
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -96.240234375, "zoom": 5, "lat": 56.58369172128337, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Uni-outline-03.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Marburg", "text": "The site of the oldest protestant university in the world, founded in 1527, Marburg was the base of Landgrave Philip I of Hesse, one of the sponsors of the early Reformation. Philip convened the Marburg Colloquy in 1529, a theological debate between Luther and Zwingli over the \u2018Real Presence\u2019 of Christ in the Eucharist."
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -93.1201171875, "zoom": 5, "lat": 57.868131763328826, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Schmalkalden", "text": "The protestant Schmalkaldic League was founded here in 1531 by Landgrave Philip of Hesse. The League was a protestant military alliance."
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -89.20898437499999, "zoom": 5, "lat": 43.8028187190472, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Trento", "text": "Pope Paul III convened the Council of Trent in this Imperial Free City (now situated in northern Italy), 1545-1563, in response to the challenge from Luther. Arguably one of the most important ever Church Councils, its agenda of reform and renewal characterised the Catholic \u2018Counter Reformation\u2019 which followed.<br>"
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -80.595703125, "zoom": 5, "lat": 58.240163543416415, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "M\u00fchlberg", "text": "M\u00fchlberg, on the river Elbe in eastern Germany, was then part of the Electorate of Saxony - a stronghold of Protestantism \u2013 and close to Wittenberg, where Luther posted his Ninety Five Theses in 1517. In 1547, it was the scene of the decisive battle that witnessed the defeat of the Schmalkaldic League by Emperor Charles V and the capture of Landgrave Philip of Hesse. &nbsp;"
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Martin Bucer - Strasbourg.jpg", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -100.01953125, "zoom": 5, "lat": 51.069016659603896, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Strasbourg", "text": "Strasbourg became a Lutheran stronghold under the spiritual leadership of the reformer, Martin Bucer. He fled Strasbourg after its surrender following the Battle of M\u00fchlberg in 1547 and took up exile in England."
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -108.1494140625, "zoom": 5, "lat": 52.74959372674114, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Le Cateau-Cambresis", "text": "A peace treaty was signed here in 1559, ending the wars in Italy between Henry II of France and Philip II of Spain. Henry II died from wounds inflicted in a jousting tournament marking the peace. The resulting political and religious factionalism in France contributed to the outbreak of the French Wars of Religion in 1562. &nbsp;&nbsp;"
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/JohnKnox_window.png", "caption": "John Knox", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -123.8818359375, "zoom": 5, "lat": 69.16255790810501, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Edinburgh", "text": "Edinburgh was a prominent centre of the Scottish Reformation under John Knox. The Scottish Confession of Faith was approved there by the Scottish Parliament in 1560 in the teeth of opposition from the Catholic, Mary Queen of Scots.&nbsp;"
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/notable_town_example.jpg", "caption": "Republican Geneva", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -106.61132812499999, "zoom": 5, "lat": 45.089035564831036, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Geneva", "text": "Republican Geneva was the epicentre of Calvinism from around 1536: Jean Calvin was mostly based here until his death in 1564. Calvin was succeeded by the influential French theologian, Theodore Beza. Geneva was home to the largest community of the more than 800 English and Scottish protestant exiles who fled to the continent during the reign of the Catholic Mary Tudor in the mid-1550s (other notable communities included those in Strasbourg and Frankfurt). Exiles there included John Knox and Bible translator, Miles Coverdale. He, along with other translators including William Whittingham, published a new version of the Bible in English, what became known as the Geneva Bible. Arguably, this was to be the most popular and accessible version of the Bible distributed during the reign of Elizabeth I (more so than the Authorised, so-called \u2018Bishops\u2019 Bible) and significantly contained heavily Calvinist annotations which deeply influenced a generation of churchmen and laity in the English Church."
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -51.7236328125, "zoom": 5, "lat": 14.647368383896632, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Lepanto", "text": "A decisive naval engagement took place in the Gulf of Patras in the Ionian Sea in 1571 when the Holy League, a military alliance formed by Pope Pious V and led by Spain, defeated the Ottoman fleet. The nearest town was Lepanto, the Venetian name for the Greek town of Nafpaktos."
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -115.8837890625, "zoom": 5, "lat": 52.32191088594773, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/Flame.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Paris", "text": "The French capital was the scene of some of the worst bloodletting of the notorious St Bartholomew\u2019s Day Massacre in August 1572, during which thousands of protestant Huguenots were murdered throughout France."
+            }
+        }
+        ,
+        {
+            "date": "",
+            "media": {
+                "url": "", "caption": "", "credit": ""
+            }
+            ,
+            "location": {
+                "iconSize": [48, 48], "lon": -130.517578125, "zoom": 5, "lat": 50.708634400828224, "line": true, "icon": "http://uploads.knightlab.com/storymapjs/1d46edea9dcad49e9bcd6b85f02493a0/reformation-beta-map/_images/town.png", "use_custom_marker": true
+            }
+            ,
+            "text": {
+                "headline": "Nantes", "text": "This French city witnessed the signing of the \u2018Edict of Nantes\u2019 in 1598 by King Henry IV of France, conceding a degree of toleration to French protestants (Huguenots). The Edict marked the end of the French Wars of Religion."
+            }
+        }
+        ],
+        "map_type": "zoomify",
+        "call_to_action_text": "",
+        "map_as_image": false
+    }
+    ,
+    "font_css": "stock:abril-droidsans"
+}
